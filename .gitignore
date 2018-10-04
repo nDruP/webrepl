@@ -1,1 +1,5 @@
 # empty file
+bin/
+share/
+lib/
+include/
